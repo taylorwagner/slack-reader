@@ -1,5 +1,17 @@
 [
     {
+        "person": "Taylor Wagner",
+        "message": "Hackathon submission day!",
+        "reactions": [],
+        "reply_count": 0
+    },
+    {
+        "person": "Taylor Wagner",
+        "message": "Got the slack integration working with a python script! Woo!",
+        "reactions": [],
+        "reply_count": 0
+    },
+    {
         "person": "Srijaya Suresh",
         "message": "Wr definitely need derrrekk here",
         "reactions": [],
@@ -14,7 +26,12 @@
     {
         "person": "Srijaya Suresh",
         "message": "It's so hot today. Had to walk all the way from Texas de brazil",
-        "reactions": [],
+        "reactions": [
+            {
+                "name": "fire",
+                "count": 1
+            }
+        ],
         "reply_count": 0
     },
     {
@@ -38,12 +55,17 @@
                 "count": 1
             }
         ],
-        "reply_count": 1
+        "reply_count": 2
     },
     {
         "person": "Kim Adams",
         "message": "milk",
-        "reactions": [],
+        "reactions": [
+            {
+                "name": "face_vomiting",
+                "count": 1
+            }
+        ],
         "reply_count": 0
     },
     {
@@ -56,7 +78,7 @@
         "person": "Houston Builder",
         "message": "*<!channel>*\n*Reminder Nominations are needed for Builder Awards!*\n*Currently have the following:*\n\u2022 *Build A Better Tomorrow 3 Team nominations, 9 Individual nominations* \n\u2022 *Build Together 3 Team nominations, 2 Individual nominations* \n\u2022 *Build The Builder 5 nominations* ",
         "reactions": [],
-        "reply_count": 0
+        "reply_count": 1
     },
     {
         "person": "Srijaya Suresh",
@@ -64,7 +86,7 @@
         "reactions": [
             {
                 "name": "heart",
-                "count": 1
+                "count": 2
             }
         ],
         "reply_count": 0
@@ -75,7 +97,7 @@
         "reactions": [
             {
                 "name": "sandwich",
-                "count": 2
+                "count": 3
             }
         ],
         "reply_count": 0
@@ -84,7 +106,7 @@
         "person": "Taylor Wagner",
         "message": "My son is sick today :disappointed: slow productivity",
         "reactions": [],
-        "reply_count": 1
+        "reply_count": 2
     },
     {
         "person": "Taylor Wagner",
