@@ -1,141 +1,160 @@
 [
     {
+        "id": 1,
         "person": "Taylor Wagner",
         "message": "Hackathon submission day!",
         "reactions": [],
-        "reply_count": 0
+        "replies": 0
     },
     {
+        "id": 2,
         "person": "Taylor Wagner",
         "message": "Got the slack integration working with a python script! Woo!",
         "reactions": [],
-        "reply_count": 0
+        "replies": 0
     },
     {
+        "id": 3,
         "person": "Srijaya Suresh",
         "message": "Wr definitely need derrrekk here",
         "reactions": [],
-        "reply_count": 0
+        "replies": 0
     },
     {
+        "id": 4,
         "person": "Srijaya Suresh",
         "message": "Where is zubes",
         "reactions": [],
-        "reply_count": 0
+        "replies": 0
     },
     {
+        "id": 5,
         "person": "Srijaya Suresh",
         "message": "It's so hot today. Had to walk all the way from Texas de brazil",
         "reactions": [
             {
-                "name": "fire",
+                "emoji": "fire",
                 "count": 1
             }
         ],
-        "reply_count": 0
+        "replies": 0
     },
     {
+        "id": 6,
         "person": "Srijaya Suresh",
         "message": "Helloooo",
         "reactions": [],
-        "reply_count": 0
+        "replies": 0
     },
     {
+        "id": 7,
         "person": "Kim Adams",
         "message": "Hey Doug, Subway's having a 2-fer special on foot- longs today!",
         "reactions": [],
-        "reply_count": 0
+        "replies": 0
     },
     {
+        "id": 8,
         "person": "Kim Adams",
         "message": "Don't look now, but we're out of Topo Chico!! Who dropped the ball on ordering?",
         "reactions": [
             {
-                "name": "sweat_drops",
+                "emoji": "sweat_drops",
                 "count": 1
             }
         ],
-        "reply_count": 2
+        "replies": 2
     },
     {
+        "id": 9,
         "person": "Kim Adams",
         "message": "milk",
         "reactions": [
             {
-                "name": "face_vomiting",
+                "emoji": "face_vomiting",
                 "count": 1
             }
         ],
-        "reply_count": 0
+        "replies": 0
     },
     {
+        "id": 10,
         "person": "Kim Adams",
         "message": "What about Blake's milk challenge? When is he going to drink that gallon of milk? The people want to know!",
         "reactions": [],
-        "reply_count": 0
+        "replies": 0
     },
     {
+        "id": 11,
         "person": "Houston Builder",
         "message": "*<!channel>*\n*Reminder Nominations are needed for Builder Awards!*\n*Currently have the following:*\n\u2022 *Build A Better Tomorrow 3 Team nominations, 9 Individual nominations* \n\u2022 *Build Together 3 Team nominations, 2 Individual nominations* \n\u2022 *Build The Builder 5 nominations* ",
         "reactions": [],
-        "reply_count": 1
+        "replies": 1
     },
     {
+        "id": 12,
         "person": "Srijaya Suresh",
         "message": "Happy Birthday Srijaya Suresh!! :cake: :cupcake:",
         "reactions": [
             {
-                "name": "heart",
+                "emoji": "heart",
                 "count": 2
             }
         ],
-        "reply_count": 0
+        "replies": 0
     },
     {
+        "id": 13,
         "person": "Houston Builder",
         "message": "Who's coming in for WFW today? Lunch is getting ordered!",
         "reactions": [
             {
-                "name": "sandwich",
+                "emoji": "sandwich",
                 "count": 3
             }
         ],
-        "reply_count": 0
+        "replies": 0
     },
     {
+        "id": 14,
         "person": "Taylor Wagner",
         "message": "My son is sick today :disappointed: slow productivity",
         "reactions": [],
-        "reply_count": 2
+        "replies": 2
     },
     {
+        "id": 15,
         "person": "Taylor Wagner",
         "message": "Taylor Wagner has joined the channel",
         "reactions": [],
-        "reply_count": 0
+        "replies": 0
     },
     {
+        "id": 16,
         "person": "Houston Builder",
         "message": "B.R.A.D. is down. Can someone validate my parking ticket?",
         "reactions": [],
-        "reply_count": 0
+        "replies": 0
     },
     {
+        "id": 17,
         "person": "Houston Builder",
         "message": "Houston Builder has joined the channel",
         "reactions": [],
-        "reply_count": 0
+        "replies": 0
     },
     {
+        "id": 18,
         "person": "Kim Adams",
         "message": "Kim Adams has joined the channel",
         "reactions": [],
-        "reply_count": 0
+        "replies": 0
     },
     {
+        "id": 19,
         "person": "Srijaya Suresh",
         "message": "Srijaya Suresh has joined the channel",
         "reactions": [],
-        "reply_count": 0
+        "replies": 0
     }
 ]

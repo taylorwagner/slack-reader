@@ -15,7 +15,7 @@ def extract_reactions(reactions):
     extracted_reactions = []
     for reaction in reactions:
         extracted_reactions.append({
-            "name": reaction['name'],
+            "emoji": reaction['name'],
             "count": reaction['count']
         })
     return extracted_reactions
@@ -35,7 +35,7 @@ def extract_messages(channel_id):
         return []
 
     extracted_messages = []
-    for message in messages:
+    for i, message in enumerate(messages, start=1):
         user_info = client.users_info(user=message['user'])
         user_name = user_info['user']['real_name']
 
@@ -47,10 +47,11 @@ def extract_messages(channel_id):
             message['text'] = message['text'].replace(f'<@{user_id}>', user_name)
 
         extracted_messages.append({
+            "id": i,
             "person": user_name,
             "message": message['text'],
             "reactions": extract_reactions(message.get('reactions', [])),
-            "reply_count": message.get('reply_count', 0)
+            "replies": message.get('reply_count', 0)
         })
     return extracted_messages
 
