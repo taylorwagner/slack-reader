@@ -1,5 +1,6 @@
 import json
 import re
+from datetime import datetime as dt
 from slack_sdk import WebClient
 from slack_sdk.errors import SlackApiError
 from dotenv import dotenv_values
@@ -46,9 +47,14 @@ def extract_messages(channel_id):
             user_name = user_info['user']['real_name']
             message['text'] = message['text'].replace(f'<@{user_id}>', user_name)
 
+        timestamp = float(message['ts'])
+        dt_object = dt.fromtimestamp(timestamp)
+        formatted_datetime = dt_object.strftime('%Y-%m-%d %I:%M %p')
+
         extracted_messages.append({
             "id": i,
             "person": user_name,
+            "datetime": formatted_datetime,
             "message": message['text'],
             "reactions": extract_reactions(message.get('reactions', [])),
             "replies": message.get('reply_count', 0)

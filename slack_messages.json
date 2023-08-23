@@ -2,6 +2,7 @@
     {
         "id": 1,
         "person": "Taylor Wagner",
+        "datetime": "2023-07-17 11:03 AM",
         "message": "Hackathon submission day!",
         "reactions": [],
         "replies": 0
@@ -9,13 +10,20 @@
     {
         "id": 2,
         "person": "Taylor Wagner",
+        "datetime": "2023-07-17 11:02 AM",
         "message": "Got the slack integration working with a python script! Woo!",
-        "reactions": [],
+        "reactions": [
+            {
+                "emoji": "raised_hands",
+                "count": 1
+            }
+        ],
         "replies": 0
     },
     {
         "id": 3,
         "person": "Srijaya Suresh",
+        "datetime": "2023-07-12 10:22 AM",
         "message": "Wr definitely need derrrekk here",
         "reactions": [],
         "replies": 0
@@ -23,6 +31,7 @@
     {
         "id": 4,
         "person": "Srijaya Suresh",
+        "datetime": "2023-07-12 10:20 AM",
         "message": "Where is zubes",
         "reactions": [],
         "replies": 0
@@ -30,6 +39,7 @@
     {
         "id": 5,
         "person": "Srijaya Suresh",
+        "datetime": "2023-07-12 10:20 AM",
         "message": "It's so hot today. Had to walk all the way from Texas de brazil",
         "reactions": [
             {
@@ -42,6 +52,7 @@
     {
         "id": 6,
         "person": "Srijaya Suresh",
+        "datetime": "2023-07-12 10:20 AM",
         "message": "Helloooo",
         "reactions": [],
         "replies": 0
@@ -49,6 +60,7 @@
     {
         "id": 7,
         "person": "Kim Adams",
+        "datetime": "2023-07-12 09:56 AM",
         "message": "Hey Doug, Subway's having a 2-fer special on foot- longs today!",
         "reactions": [],
         "replies": 0
@@ -56,6 +68,7 @@
     {
         "id": 8,
         "person": "Kim Adams",
+        "datetime": "2023-07-12 09:55 AM",
         "message": "Don't look now, but we're out of Topo Chico!! Who dropped the ball on ordering?",
         "reactions": [
             {
@@ -68,6 +81,7 @@
     {
         "id": 9,
         "person": "Kim Adams",
+        "datetime": "2023-07-12 09:54 AM",
         "message": "milk",
         "reactions": [
             {
@@ -80,6 +94,7 @@
     {
         "id": 10,
         "person": "Kim Adams",
+        "datetime": "2023-07-12 09:53 AM",
         "message": "What about Blake's milk challenge? When is he going to drink that gallon of milk? The people want to know!",
         "reactions": [],
         "replies": 0
@@ -87,6 +102,7 @@
     {
         "id": 11,
         "person": "Houston Builder",
+        "datetime": "2023-07-12 09:46 AM",
         "message": "*<!channel>*\n*Reminder Nominations are needed for Builder Awards!*\n*Currently have the following:*\n\u2022 *Build A Better Tomorrow 3 Team nominations, 9 Individual nominations* \n\u2022 *Build Together 3 Team nominations, 2 Individual nominations* \n\u2022 *Build The Builder 5 nominations* ",
         "reactions": [],
         "replies": 1
@@ -94,6 +110,7 @@
     {
         "id": 12,
         "person": "Srijaya Suresh",
+        "datetime": "2023-07-12 09:45 AM",
         "message": "Happy Birthday Srijaya Suresh!! :cake: :cupcake:",
         "reactions": [
             {
@@ -106,6 +123,7 @@
     {
         "id": 13,
         "person": "Houston Builder",
+        "datetime": "2023-07-12 09:44 AM",
         "message": "Who's coming in for WFW today? Lunch is getting ordered!",
         "reactions": [
             {
@@ -118,6 +136,7 @@
     {
         "id": 14,
         "person": "Taylor Wagner",
+        "datetime": "2023-07-12 09:43 AM",
         "message": "My son is sick today :disappointed: slow productivity",
         "reactions": [],
         "replies": 2
@@ -125,6 +144,7 @@
     {
         "id": 15,
         "person": "Taylor Wagner",
+        "datetime": "2023-07-12 09:43 AM",
         "message": "Taylor Wagner has joined the channel",
         "reactions": [],
         "replies": 0
@@ -132,6 +152,7 @@
     {
         "id": 16,
         "person": "Houston Builder",
+        "datetime": "2023-07-12 09:43 AM",
         "message": "B.R.A.D. is down. Can someone validate my parking ticket?",
         "reactions": [],
         "replies": 0
@@ -139,6 +160,7 @@
     {
         "id": 17,
         "person": "Houston Builder",
+        "datetime": "2023-07-12 09:42 AM",
         "message": "Houston Builder has joined the channel",
         "reactions": [],
         "replies": 0
@@ -146,6 +168,7 @@
     {
         "id": 18,
         "person": "Kim Adams",
+        "datetime": "2023-07-12 09:25 AM",
         "message": "Kim Adams has joined the channel",
         "reactions": [],
         "replies": 0
@@ -153,6 +176,7 @@
     {
         "id": 19,
         "person": "Srijaya Suresh",
+        "datetime": "2023-07-12 09:04 AM",
         "message": "Srijaya Suresh has joined the channel",
         "reactions": [],
         "replies": 0
